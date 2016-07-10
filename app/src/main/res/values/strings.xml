@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DulceReal</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lista_pedidos">ListaPedidosActivity</string>
+    <string name="title_activity_detalle_pedido">DetallePedido</string>
+    <string name="title_activity_filtrar">FiltrarActivity</string>
+    <string name="title_activity_pedido_filtrado">PedidoFiltradoActivity</string>
+</resources>
